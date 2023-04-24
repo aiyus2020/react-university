@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-university/static/css/main.4ffe9603.css",
+    "main.js": "/react-university/static/js/main.a976a8ea.js",
+    "static/media/guys.png": "/react-university/static/media/guys.b9c6ef000983e6d2c89d.png",
+    "static/media/hall.png": "/react-university/static/media/hall.90a1b930d763ea7699ca.png",
+    "static/media/building.png": "/react-university/static/media/building.87a361a5e1f0bca8c741.png",
+    "static/media/bookgirl.png": "/react-university/static/media/bookgirl.d21031fb1da6a158baec.png",
+    "static/media/libraryBook2.jpg": "/react-university/static/media/libraryBook2.29bd9837e67cfa92c06a.jpg",
+    "static/media/test3.png": "/react-university/static/media/test3.4791806d6d03146e5233.png",
+    "static/media/test1.png": "/react-university/static/media/test1.ba5030d476d5414f1a1c.png",
+    "static/media/istockphoto-1244502261-170667a.jpg": "/react-university/static/media/istockphoto-1244502261-170667a.f7127897745c40597769.jpg",
+    "static/media/test4.png": "/react-university/static/media/test4.e473c5dfa4fed3475d72.png",
+    "static/media/test2.png": "/react-university/static/media/test2.3023206a8ccaa42b554b.png",
+    "index.html": "/react-university/index.html",
+    "main.4ffe9603.css.map": "/react-university/static/css/main.4ffe9603.css.map",
+    "main.a976a8ea.js.map": "/react-university/static/js/main.a976a8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ffe9603.css",
+    "static/js/main.a976a8ea.js"
+  ]
+}
